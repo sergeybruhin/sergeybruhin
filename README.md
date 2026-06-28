@@ -9,7 +9,7 @@ Most of my client work is private, so this GitHub is more of a technical noteboo
 Available for selected mid-budget business projects.
 
 <p>
-    <a href="https://sergeybruhin.com" target="_blank"><img src="https://img.shields.io/badge/Website-sergeybruhin.com-111827?style=for-the-badge" alt="Website"></a>
+    <a href="https://sergeybruhin.com" target="_blank"><img src="https://sergeybruhin.com/favicon.ico" width="32" height="32" alt="sergeybruhin.com"></a>
 </p>
 
 ## What I Build
