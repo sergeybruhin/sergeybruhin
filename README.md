@@ -43,5 +43,10 @@ I keep short practical notes at <a href="https://sergeybruhin.com" target="_blan
 ## Let's Connect
 
 - Primary source for work, projects, and more information: <a href="https://sergeybruhin.com" target="_blank">sergeybruhin.com</a>
+- GitHub: <a href="https://github.com/sergeybruhin" target="_blank">github.com/sergeybruhin</a>
+- Telegram: <a href="https://t.me/sergeybruhin_com" target="_blank">t.me/sergeybruhin_com</a>
+- YouTube: <a href="https://www.youtube.com/@SergeyBruhin" target="_blank">@SergeyBruhin</a>
+- Instagram: <a href="https://www.instagram.com/sergeybruhin_com" target="_blank">@sergeybruhin_com</a>
+- X / Twitter: <a href="https://twitter.com/SergeyBruhinCom" target="_blank">@SergeyBruhinCom</a>
 
 If you need a business web application that is useful, maintainable, and built with care, start at <a href="https://sergeybruhin.com" target="_blank">sergeybruhin.com</a>.
